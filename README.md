@@ -1,4 +1,4 @@
-# Video Translator (Whisper + VAD Retiming)
+# Video Translator / Transcriber (Whisper + VAD Retiming)
 
 [Open in Colab](https://colab.research.google.com/drive/1jgSBhdLgjRd--2-HNqMwcAbfjee5fBWy#scrollTo=aQSVKuuaTxtL)
 
