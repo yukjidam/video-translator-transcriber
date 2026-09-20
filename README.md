@@ -56,3 +56,11 @@ Key parameters live near the top of the retiming cell and can be adjusted:
 - `MERGE_GAP_SEC` (0.06s) — speech intervals closer together than this are merged into one.
 
 The energy-based VAD in the retiming step is a custom lightweight implementation (frame RMS + adaptive thresholding), separate from the VAD filter used inside Whisper's own transcription call.
+
+---
+
+<div align="center">
+
+Made with ☕ and probably too much love for tiny UI details.
+
+</div>
